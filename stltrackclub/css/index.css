@@ -1,0 +1,8 @@
+[class*="col-md-8"] {
+  border: 1px solid #000000;
+  border: 1px solid rgba(0,0,0,.2);
+}
+[class*="col-md-12"] {
+  border: 1px solid #000000;
+  border: 1px solid rgba(0,0,0,.2);
+}
